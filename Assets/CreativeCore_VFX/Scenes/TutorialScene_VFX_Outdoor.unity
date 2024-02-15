@@ -3692,8 +3692,12 @@ PrefabInstance:
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2766462174561018556, guid: beabc4e22829d4b3a92fca0f9d9b373c, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2766462174561018556, guid: beabc4e22829d4b3a92fca0f9d9b373c, type: 3}
       propertyPath: EmissionModule.rateOverTime.scalar
-      value: 90
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 5012479959953246035, guid: beabc4e22829d4b3a92fca0f9d9b373c, type: 3}
       propertyPath: m_LocalPosition.x
